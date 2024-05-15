@@ -1,8 +1,0 @@
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.csproj.AssemblyReference.cache
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.GeneratedMSBuildEditorConfig.editorconfig
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.AssemblyInfoInputs.cache
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.AssemblyInfo.cs
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.csproj.CoreCompileInputs.cache
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.MvcApplicationPartsAssemblyInfo.cache
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.RazorAssemblyInfo.cache
-/Users/key/Desktop/C#/Fastfood.Web/Fastfood.Web/obj/Debug/net6.0/Fastfood.Web.RazorAssemblyInfo.cs
