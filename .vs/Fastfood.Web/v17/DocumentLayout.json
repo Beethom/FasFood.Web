@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948F7726-2B25-4FE4-AE40-D1AFAD5342CB}|FasFood.Models\\FastFood.Models.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fasfood.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948F7726-2B25-4FE4-AE40-D1AFAD5342CB}|FasFood.Models\\FastFood.Models.csproj|solutionrelative:fasfood.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\viewmodels\\categoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|c:\\users\\vante\\source\\repos\\fasfood.web\\fastfood.web\\fastfood.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Fastfood.Web\\Fastfood.Web.csproj|solutionrelative:fastfood.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Fastfood.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:02:09.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Fastfood.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:01:57.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Fastfood.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:01:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T05:00:03.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:33:14.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Fastfood.Web\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACMAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T04:25:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Fastfood.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\appsettings.json",
+              "RelativeToolTip": "Fastfood.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-13T04:23:38.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Fastfood.Web\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAswC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:18:13.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\FasFood.Models\\Category.cs",
+              "RelativeDocumentMoniker": "FasFood.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\FasFood.Models\\Category.cs",
+              "RelativeToolTip": "FasFood.Models\\Category.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:17:21.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\ViewModels\\CategoryViewModel.cs",
+              "RelativeDocumentMoniker": "Fastfood.Web\\ViewModels\\CategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\ViewModels\\CategoryViewModel.cs",
+              "RelativeToolTip": "Fastfood.Web\\ViewModels\\CategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:15:56.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Fastfood.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\vante\\source\\repos\\FasFood.Web\\Fastfood.Web\\Fastfood.Web\\Program.cs",
+              "RelativeToolTip": "Fastfood.Web\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:11:58.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

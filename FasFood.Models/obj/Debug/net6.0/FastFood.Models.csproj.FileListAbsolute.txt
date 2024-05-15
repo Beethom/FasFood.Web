@@ -1,0 +1,13 @@
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\bin\Debug\net6.0\FastFood.Models.deps.json
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\bin\Debug\net6.0\FastFood.Models.dll
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\bin\Debug\net6.0\FastFood.Models.pdb
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.csproj.AssemblyReference.cache
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.AssemblyInfoInputs.cache
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.AssemblyInfo.cs
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.csproj.CoreCompileInputs.cache
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.sourcelink.json
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.dll
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\refint\FastFood.Models.dll
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\FastFood.Models.pdb
+C:\Users\vante\source\repos\FasFood.Web\Fastfood.Web\FasFood.Models\obj\Debug\net6.0\ref\FastFood.Models.dll

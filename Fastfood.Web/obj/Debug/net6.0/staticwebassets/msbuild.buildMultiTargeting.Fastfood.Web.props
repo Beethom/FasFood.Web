@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fastfood.Web.props" />
+</Project>

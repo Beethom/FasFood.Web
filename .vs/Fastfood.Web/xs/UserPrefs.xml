@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D4123293-735D-4AF3-828E-EA6A865E1AE0}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Fastfood.Web PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fastfood.Web/Program.cs">
+    <Files>
+      <File FileName="FastFood.Repository/ApplicationDbContext.cs" />
+      <File FileName="FastFood.Repository/IDbInitializer.cs" />
+      <File FileName="FastFood.Repository/DbInitializer.cs" />
+      <File FileName="Fastfood.Web/appsettings.json" />
+      <File FileName="Fastfood.Web/Program.cs" Line="6" Column="1" />
+      <File FileName="Fastfood.Web/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fastfood.Web" expanded="True">
+            <Node name="FastFood.Models" expanded="True" />
+            <Node name="FastFood.Repository" expanded="True" />
+            <Node name="FastFood.Services" expanded="True" />
+            <Node name="Fastfood.Web" expanded="True" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
